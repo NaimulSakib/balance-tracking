@@ -8,3 +8,6 @@ body{
     box-shadow: 5px 5px 13px rgb(131, 150, 134);
     background-color: rgb(193, 230, 203);
 }
+#transaction-area{
+    display: none; /* Transaction area wont be shown on login page */
+}
