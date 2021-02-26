@@ -11,11 +11,17 @@ body{
 #transaction-area{
     display: none; /* Transaction area wont be shown on login page */
 }
+.status{
+    margin: 0px 20px;
+    color: rgb(223, 223, 223);
+    padding: 20px;
+    border-radius: 10px;
+}
 .deposit{
-    background-color: rgb(0, 128, 49);
+    background-color: rgb(7, 90, 39);
 }
 .withdraw{
-    background-color: rgb(202, 7, 7);
+    background-color: rgb(223, 0, 0);
 }
 .balance{
     background-color: rgb(12, 78, 219);

@@ -1,3 +1,4 @@
+//Login button event handler
 const loginBtn = document.getElementById("login");
 loginBtn.addEventListener("click", function(){
     const loginArea = document.getElementById("login-area");
